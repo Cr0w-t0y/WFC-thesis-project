@@ -27,5 +27,6 @@ next step:
 current sources:
     development so far: Godot Top-Down Action Game tutprial playlist by Coding With Russ on YouTube
         https://www.youtube.com/playlist?list=PLjcN1EyupaQkpgVN3CEeaetxxCrxo4F7v
+    
     player character: Sprout Lands by cupnooble on itch.io
         https://cupnooble.itch.io/sprout-lands-asset-pack
