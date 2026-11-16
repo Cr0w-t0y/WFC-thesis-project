@@ -1,0 +1,10 @@
+Needed mods on the timesheet: (minor cosmetic issues are NOT a concern:
+
+• water between sideways ledges needs to be added
+• decorations to be found
+
+Timesheet used as reference: https://pixelfrog-assets.itch.io/tiny-swords
+
+
+Potential idea on sandwiching, but that will make collision difficult for background
+Apparently possible though
